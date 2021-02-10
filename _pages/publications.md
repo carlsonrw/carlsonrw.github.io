@@ -57,4 +57,4 @@ Carlson, Aknin, & Liotti (2016)
 | ------------------------------------------------------------ | ------------------------------ |
 | <b>[<b>Psychological selfishness</b>](https://psyarxiv.com/jp27m/)</b><br>Carlson, Adkins, Crockett, & Clark | <img src="https://pbs.twimg.com/profile_images/3774080612/7d840b52d729e4621f958a0d1880fa02.jpeg" class="img-responsive" alt="">   |
 | <b>[<b>A computational theory of flow</b>](https://psyarxiv.com/9q3jd/)</b><br>Melnikoff, Carlson, & Stillman   | <img src="https://pbs.twimg.com/profile_images/3774080612/7d840b52d729e4621f958a0d1880fa02.jpeg" class="img-responsive" alt="">  |
-| <b>[<b>Belief in altruistic motives predicts prosocial actions and inferences</b>](https://psyarxiv.com/sa6q8/)</b><br>Carlson & Zaki | <img src="https://pbs.twimg.com/profile_images/3774080612/7d840b52d729e4621f958a0d1880fa02.jpeg" class="img-responsive" alt="">  |
+| <b>[<b>Belief in altruistic motives predicts <br>prosocial actions and inferences</b>](https://psyarxiv.com/sa6q8/)</b><br>Carlson & Zaki | <img src="https://pbs.twimg.com/profile_images/3774080612/7d840b52d729e4621f958a0d1880fa02.jpeg" class="img-responsive" alt="">  |
