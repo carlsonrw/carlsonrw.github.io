@@ -9,15 +9,17 @@ Carlson, Adkins, Crockett, & Clark
   
 <sub><b>[<b>A computational theory of flow</b>](https://psyarxiv.com/9q3jd/)</b>  
 Melnikoff, Carlson, & Stillman  
-
-<sub><b>[<b>Belief in altruistic motives predicts prosocial actions and inferences</b>](https://psyarxiv.com/sa6q8/)</b>  
-Carlson & Zaki
   
   
  --- 
 
 `publications`
 
+
+<sub><b>Belief in altruistic motives predicts prosocial actions and inferences</b>   
+Carlson, & Zaki (in press)  
+ *Psychological Reports* [<b>[PDF]</b>](https://psyarxiv.com/sa6q8/) [<b>[OSF]</b>](https://osf.io/ajrfq/) </sub>
+ 
 
 <sub><b>Building empathy through motivation-based interventions</b>   
 Weisz, Ong, Carlson, & Zaki (2020)  
