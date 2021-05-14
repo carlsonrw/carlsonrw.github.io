@@ -10,6 +10,9 @@ Carlson, Adkins, Crockett, & Clark
 <sub><b>[<b>A computational theory of flow</b>](https://psyarxiv.com/9q3jd/)</b>  
 Melnikoff, Carlson, & Stillman  
   
+<sub><b>[<b>Reasoning about social preferences with uncertain beliefs</b>](https://psyarxiv.com/au5gc/)</b>  
+Davis, Carlson, Dunham & Jara-Ettinger  
+  
   
  --- 
 
