@@ -6,9 +6,6 @@ author_profile: true
 
 <sub><b>[<b>Reasoning about social preferences with uncertain beliefs</b>](https://psyarxiv.com/au5gc/)</b>  
 Davis, Carlson, Dunham & Jara-Ettinger  
-
-<sub><b>[<b>Psychological selfishness</b>](https://psyarxiv.com/jp27m/)</b>  
-Carlson, Adkins, Crockett, & Clark 
   
 <sub><b>[<b>A computational theory of flow</b>](https://psyarxiv.com/9q3jd/)</b>  
 Melnikoff, Carlson, & Stillman  
@@ -20,7 +17,11 @@ Melnikoff, Carlson, & Stillman
 
 `publications`
 
-
+<sub><b>Psychological selfishness</b>   
+Carlson, Adkins, Crockett, & Clark (in press)  
+ *Perspectives on Psychological Science* [<b>[PDF]</b>](https://psyarxiv.com/jp27m/) 
+   
+  
 <sub><b>Belief in altruistic motives predicts prosocial actions and inferences</b>   
 Carlson, & Zaki (in press)  
  *Psychological Reports* [<b>[PDF]</b>](https://psyarxiv.com/sa6q8/) [<b>[OSF]</b>](https://osf.io/ajrfq/) </sub>
