@@ -2,6 +2,7 @@
 permalink: /
 excerpt: ""
 author_profile: true
+redirect_to: "https://www.carlsonr.com"
 redirect_from: 
   - /about/
   - /about.html
